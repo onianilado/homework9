@@ -51,13 +51,11 @@
 	display: flex;
 	justify-content: space-between;
 	width: 1171.57px;
-	/* height: 680.13px; */
 	margin: 0 auto;
 }
 .leftblock{
 	margin-right: 59.1px;
 	width: 241.47px;
-	/* height: 240.56px; */
 }
 .left-title{
 	font-family: 'Raleway', sans-serif;
@@ -80,12 +78,11 @@
 	justify-content: space-between;
 	display: flex;
 	flex-wrap: wrap;
-	/* height: 680.13px; */
 	width: 871px;
 }
 .miniblock{
 	width: 269.07px;
-	height: 326.42px;
+	/* height: 326.42px; */
 }
 .title{
 	font-family: 'Raleway', sans-serif;
