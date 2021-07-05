@@ -82,6 +82,7 @@
 }
 .miniblock{
 	width: 269.07px;
+    margin-bottom: 22px;
 	/* height: 326.42px; */
 }
 .title{
@@ -95,7 +96,6 @@
 	font-family: 'Raleway', sans-serif;
 	color: #8D8D8D;
 	font-size: 16px;
-    margin-bottom: 22px;
 }
 .image{
 	width: 268.97px ;
