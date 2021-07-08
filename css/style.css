@@ -1,13 +1,20 @@
+/* header */
 .header{
 	width: 100%;
 	background-color: #FFF;
 	position: fixed;
 	display: flex;
+    justify-content: space-between;
 	padding: 25px 94.1px 25px 95px;
 	z-index: 10;
 }
 .navigation{
 	margin-left: 534.9px;
+}
+.burger-icon{
+    font-size: 20px;
+    color: #8D8D8D;
+    display: none;
 }
 .nav{
 	display: flex;
@@ -50,7 +57,8 @@
 .block-container{
 	display: flex;
 	justify-content: space-between;
-	width: 1171.57px;
+	max-width: 1171.57px;
+    width: 100%;
 	margin: 0 auto;
 }
 .leftblock{
@@ -78,7 +86,8 @@
 	justify-content: space-between;
 	display: flex;
 	flex-wrap: wrap;
-	width: 871px;
+	max-width: 871px;
+    width: 100%;
 }
 .miniblock{
 	width: 269.07px;
