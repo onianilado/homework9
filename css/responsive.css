@@ -8,11 +8,14 @@
     }
 }
 @media (max-width: 448px) {
-    .block-container{
+    .block-container,
+    .rightblock{
         flex-direction: column;
         align-items: center;
     }
-
+    .leftblock{
+        margin-bottom: 15px;
+    }
 }
     
 
